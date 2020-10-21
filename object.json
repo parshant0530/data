@@ -4,13 +4,13 @@
          "name":"Movies",
          "videos":[
             {
-               "description":"Big Buck Bunny tells the story of a giant rabbit with a heart bigger than himself. When one sunny day three rodents rudely harass him, something snaps... and the rabbit ain't no bunny anymore! In the typical cartoon tradition he prepares the nasty rodents a comical revenge.\n\nLicensed under the Creative Commons Attribution license\nhttp://www.bigbuckbunny.org",
+               "description":"Player showings his Basketball skills in the mall"
                "sources":[
                   "https://cdn.videvo.net/videvo_files/video/free/2014-09/small_watermarked/Slow_motion_Santa_Monica_01_preview.webm"
                ],
-               "subtitle":"By Blender Foundation",
-               "thumb":"http://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
-               "title":"Big Buck Bunny"
+               "subtitle":"By Videvo",
+               "thumb":"https://cdn.pixabay.com/photo/2020/03/10/16/47/moon-4919501_960_720.jpg",
+               "title":"Basketball in a Mall"
             },
             {
                "description":"The first Blender Open Movie from 2006",
